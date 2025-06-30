@@ -1,0 +1,5 @@
+@layer components {
+  .btn-yash {
+    @apply inline-flex items-center justify-center px-4 py-2 rounded-md font-semibold text-white transition bg-blue-600 hover:bg-blue-700;
+  }
+}
