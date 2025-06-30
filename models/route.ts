@@ -6,4 +6,23 @@ export interface RouteItem {
 export const routeMap: RouteItem[] = [
   { name: "Cat Facts", path: "/catpage" },
   { name: "Ip - Details", path: "/ippage" },
+  { name: "Cat Facts", path: "/catpage" },
+  { name: "Ip - Details", path: "/ippage" },
+  { name: "Cat Facts", path: "/catpage" },
+  { name: "Ip - Details", path: "/ippage" },
+  { name: "Cat Facts", path: "/catpage" },
+  { name: "Ip - Details", path: "/ippage" },
+  { name: "Cat Facts", path: "/catpage" },
+  { name: "Ip - Details", path: "/ippage" },
+  { name: "Cat Facts", path: "/catpage" },
+  { name: "Ip - Details", path: "/ippage" },
+  { name: "Cat Facts", path: "/catpage" },
+  { name: "Ip - Details", path: "/ippage" },
+  { name: "Cat Facts", path: "/catpage" },
+  { name: "Ip - Details", path: "/ippage" },
+  { name: "Cat Facts", path: "/catpage" },
+  { name: "Ip - Details", path: "/ippage" },
+  { name: "Cat Facts", path: "/catpage" },
+  { name: "Ip - Details", path: "/ippage" },
+
 ];
