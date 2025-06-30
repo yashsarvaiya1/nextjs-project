@@ -1,6 +1,6 @@
 "use client";
 import { useQuery } from "@tanstack/react-query";
-import { getCatFact } from "@/services/catservice";
+import { getCatFact } from "@/services/catservice/catservice";
 
 export default function CatComponent() {
   const { data, isLoading, isError, refetch } = useQuery({
